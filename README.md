@@ -1,3 +1,3 @@
 # Internship_learning_log
 
-goals
+goals: Learn to work with version control systems.goals
