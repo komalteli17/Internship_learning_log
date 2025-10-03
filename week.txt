@@ -1,1 +1,3 @@
-dsgfh
+goals:
+Learn to work with version control systems.
+build connections with professionals and seek mentorship
